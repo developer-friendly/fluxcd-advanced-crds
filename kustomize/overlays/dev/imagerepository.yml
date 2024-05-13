@@ -7,4 +7,4 @@ spec:
   interval: 1m
   provider: generic
   secretRef:
-    name: echo-server-docker (1)
+    name: echo-server-docker
